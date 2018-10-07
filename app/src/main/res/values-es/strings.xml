@@ -1,0 +1,11 @@
+<resources>
+    <!--<string name="app_name">Gato</string>-->
+    <string name="player_1">Jugador 1</string>
+    <string name="player_2">Jugador 2</string>
+    <string name="game_dialog_title">Juego nuevo</string>
+    <string name="done">Terminar</string>
+    <string name="game_dialog_empty_name">El nombre no puede ser vacío</string>
+    <string name="game_dialog_same_name">Los nombre no deben ser iguales</string>
+    <string name="game_end_dialog_headline">El ganador es</string>
+    <string name="no_winner">Nadie</string>
+</resources>
